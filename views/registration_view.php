@@ -1,4 +1,4 @@
-<form action="verification.php" method="POST">
+<form action="/NewUser" method="POST">
 
     <table>
         <tr>

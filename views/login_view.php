@@ -1,5 +1,5 @@
 
-<form action="model_login.php" method="POST"><table>
+<form action="/Registration" method="POST"><table>
         <tr>
             <td>Логин:</td>
             <td><input type="text" name="login"></td>
