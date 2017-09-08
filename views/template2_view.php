@@ -12,6 +12,6 @@
 <br>
 <H1>Главное</H1>
 <?php include 'views/'.$content_view; ?>
-<a href="Login.php">Логин</a>
+<a href="/Login">Логин</a>
 </body>
 </html>

@@ -1,5 +1,5 @@
 
-<form action="/Registration" method="POST"><table>
+<form action="/LoginUser" method="POST"><table>
         <tr>
             <td>Логин:</td>
             <td><input type="text" name="login"></td>
